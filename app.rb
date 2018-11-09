@@ -25,10 +25,7 @@ class App < Sinatra::Base
 
     product = number1*number2
 
-
-
-
-
+    "#{product}"
   end
 
 end
