@@ -23,11 +23,11 @@ class App < Sinatra::Base
     number1 = params[:num1].to_i
     number2 = params[:num2].to_i
 
-    number2*number2
+    proguct = number1*number2
 
-     
-    
-  
+
+
+
 
   end
 
